@@ -1,10 +1,12 @@
 # Stage
 
 Stage is a MATLAB-based visual stimulus system for vision research. It provides a toolbox for writing visual stimulus routines.
+This fork is from the original Stage-VSS repository, with all submodules forked as well (other than docs). The purpose of this
+fork is to add linux and (eventually) Apple silicon compatibility.
 
 ## Clone
 
-`git clone https://github.com/Stage-VSS/stage.git --recursive`
+`git clone https://github.com/drezeanu/stage.git --recursive`
 
 **Note:** You must use the `--recursive` option to recursively clone all submodules.
 
