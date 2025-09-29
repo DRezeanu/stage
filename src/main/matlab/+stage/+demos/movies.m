@@ -6,7 +6,7 @@ function movies()
     canvas = Canvas(window, 'disableDwm', false);
 
     % Get the full path of the Demos/Movies directory.
-    moviesDir = fullfile(fileparts(mfilename('fullpath')), 'Movies');
+    moviesDir = fullfile(fileparts(mfilename('fullpath')), 'movies');
 
     % Create a few movie stimuli.
     boxingMovie = stage.builtin.stimuli.Movie(fullfile(moviesDir, 'boxing.mpg'));
