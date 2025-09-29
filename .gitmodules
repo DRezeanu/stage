@@ -1,24 +1,24 @@
 [submodule "lib/matlab-glfw3"]
 	path = lib/matlab-glfw3
-	url = https://github.com/cafarm/matlab-glfw3
+	url = https://github.com/drezeanu/matlab-glfw3
 [submodule "lib/MOGL"]
 	path = lib/MOGL
-	url = https://github.com/cafarm/MOGL
+	url = https://github.com/drezeanu/MOGL
 [submodule "lib/matlab-avbin"]
 	path = lib/matlab-avbin
-	url = https://github.com/cafarm/matlab-avbin.git
+	url = https://github.com/drezeanu/matlab-avbin.git
 [submodule "lib/matlab-dwm"]
 	path = lib/matlab-dwm
-	url = https://github.com/cafarm/matlab-dwm.git
+	url = https://github.com/drezeanu/matlab-dwm.git
 [submodule "lib/matlab-priority"]
 	path = lib/matlab-priority
-	url = https://github.com/cafarm/matlab-priority.git
+	url = https://github.com/drezeanu/matlab-priority.git
 [submodule "lib/netbox"]
 	path = lib/netbox
-	url = https://github.com/cafarm/netbox.git
+	url = https://github.com/drezeanu/netbox.git
 [submodule "apps/stage-server"]
 	path = apps/stage-server
-	url = https://github.com/Stage-VSS/stage-server.git
+	url = https://github.com/drezeanu/stage-server.git
 [submodule "src/site/docs"]
 	path = src/site/docs
 	url = https://github.com/Stage-VSS/stage-docs.git
