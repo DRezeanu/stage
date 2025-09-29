@@ -6,7 +6,7 @@ function aperture()
     canvas = Canvas(window, 'disableDwm', false);
 
     % Read an image from file.
-    imagesDir = fullfile(fileparts(mfilename('fullpath')), 'Images');
+    imagesDir = fullfile(fileparts(mfilename('fullpath')), 'images');
     butterflyImage = imread(fullfile(imagesDir, 'butterfly.jpg'));
 
     % Create an image stimulus from the image matrix.
