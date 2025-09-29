@@ -6,7 +6,7 @@ function images()
     canvas = Canvas(window, 'disableDwm', false);
 
     % Read a few images from file.
-    imagesDir = fullfile(fileparts(mfilename('fullpath')), 'Images');
+    imagesDir = fullfile(fileparts(mfilename('fullpath')), 'images');
     butterflyImage = imread(fullfile(imagesDir, 'butterfly.jpg'));
 
     [horseImage, ~, horseAlpha] = imread(fullfile(imagesDir, 'horse.png'));
